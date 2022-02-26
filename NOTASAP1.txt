@@ -3,12 +3,9 @@
 O aluno que apresenta o maior desempenho é ______ com media igual a 0.00
 O aluno que apresenta o menor desempenho é ______ com media igual a 0.00
 				
-Nome do alunos			Nota1		Nota2		Nota3
+Nome do alunos				Nota1			Nota2			Nota3
 
 Maria					6.0			7.0			8.0
-Carlos					7.0				6.0				6.0
-Joana					9.0			9.5		     10.0
+Carlos					7.0			6.0			6.0
+Joana					9.0			9.5		        10.0
 Andre					8.0			8.0			8.0
-
-
-

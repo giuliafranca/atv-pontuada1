@@ -2,7 +2,8 @@
 O aluno que apresenta o maior desempenho eh: Arthuzin com a media igual a 9.1
 O aluno que apresenta o menor desempenho eh: Emersson com media igual a 5.3
 
-dos Alunos				Nota1			Nota2			Nota3
+
+Nome dos Alunos				Nota1			Nota2			Nota3
 
 Maria					6.0			7.0			8.0
 Carlos					7.0			6.0			6.0
